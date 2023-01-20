@@ -1,3 +1,5 @@
+## In this exercise I practised basic state modification based on button click events.
+<br>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
